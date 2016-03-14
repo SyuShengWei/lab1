@@ -1,0 +1,17 @@
+Script started on 2016年03月14日 (週一) 12時20分48秒
+]0;H34021042@2015cpp: ~H34021042@2015cpp:~$ whho[K[Koami;pwd
+H34021042
+/home/H34021042
+]0;H34021042@2015cpp: ~H34021042@2015cpp:~$ whoami;pwdgit config -l[2Pwhoami; pwdgit config -l
+user.name=SyuShengWei
+user.email=feather8405@gmail.com
+]0;H34021042@2015cpp: ~H34021042@2015cpp:~$ gitclonehttps://github.com/<your githubaccount>/lab1.git[C[1P>/lab1.git[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitD/lab1.git[1P/lab1.gits/lab1.gitY/lab1.git[1P/lab1.git[1P/lab1.gitS/lab1.gits/lab1.git[1P/lab1.gity/lab1.gitu/lab1.gitd/lab1.git[1P/lab1.gitS/lab1.gith/lab1.gite/lab1.gitn/lab1.gitg/lab1.gitW/lab1.gite/lab1.giti/lab1.git
+bash: gitclonehttps://github.com/SyuShengWei/lab1.git: No such file or directory
+]0;H34021042@2015cpp: ~H34021042@2015cpp:~$ gitclonehttps://github.com/SyuShengWei/lab1.git[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitf/lab1.gite/lab1.gita/lab1.gitt/lab1.gith/lab1.gite/lab1.gitr/lab1.git8/lab1.git4/lab1.git0/lab1.git5/lab1.git@/lab1.gitg/lab1.gitm/lab1.gita/lab1.giti/lab1.gitl/lab1.git./lab1.gitc/lab1.gito/lab1.gitm/lab1.git
+bash: gitclonehttps://github.com/feather8405@gmail.com/lab1.git: No such file or directory
+]0;H34021042@2015cpp: ~H34021042@2015cpp:~$ gitclonehttps://github.com/feather8405@gmail.com/lab1.git[10PSyuShengWei/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C config -l[Kclonehttps://github.com/SyuShengWei/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K https://github.com/SyuShengWei/lab1.git [1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34021042@2015cpp: ~H34021042@2015cpp:~$ exit
+
+Script done on 2016年03月14日 (週一) 12時23分34秒
