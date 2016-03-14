@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-main(){
+int main(){
     int n = 0 ;
     cout<<"please input number:";
     cin >>n;
